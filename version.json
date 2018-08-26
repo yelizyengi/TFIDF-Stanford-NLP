@@ -1,5 +1,5 @@
 {
-  "versionName":"7.0.0",
+  "versionName":"8.0.0",
   "apkUrl":"https://github.com/yelizyengi/TFIDF-Stanford-NLP/blob/master/app-debug.apk?raw=true",
-  "forceUpdate": false
+  "forceUpdate": true
 }
